@@ -1,4 +1,4 @@
-# Execises_Js
+# Exercises_Js
 Resolution of javascript exercises to improve programming logic
 
 - [ ] icy-hot
