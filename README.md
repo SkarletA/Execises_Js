@@ -9,5 +9,9 @@ Resolution of javascript exercises to improve programming logic
 - biggerTwo
 - redTicket
 - middleThree
+- Abbreviate a Two Word Name
+- Remove First and Last Character
+- Transformation iteration
+- Ask for missing details
 
 
