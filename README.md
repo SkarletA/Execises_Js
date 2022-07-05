@@ -8,6 +8,7 @@ Resolution of javascript exercises to improve programming logic
 - [4. RedTicket](#4-redTicket)
 - [5. MiddleThree](#5-middleThree)
 - [6. Teensum](#6-teensum)
+- [18. PlusTwo](#18-plusTwo)
 ## Beginner
 - [7. Same on bots ends](#7-same-on-bots-ends)
 - [8. Remove Strings Spaces](#8-remove-strings-spaces)
@@ -15,12 +16,14 @@ Resolution of javascript exercises to improve programming logic
 - [10. Abbreviate a Two Word Name](#10-abbreviate-a-two-word-name)
 - [11. Remove First and Last Character](#11-remove-first-and-last-character)
 - [12. Create Phone Number](#12-create-phone-number)
-- [13. Moving Zeros To The End](#11-moving-zeros-to-the-end)
+- [13. Moving Zeros To The End](#13-moving-zeros-to-the-end)
+- [19. Job Matching](#10-job-matching)
 ### Intermediate
 - [14. Transformation iteration](#14-transformation-iteration)
 - [15. Ask for missing details](#15-ask-for-missing-details)
 - [16. Array Diff](#16-array-diff)
-- [17. Pangram](#16-pangram)
+- [17. Pangram](#17-pangram)
+- [20. Format words into a sentence](#20-format-words-into-a-sentence)
 
 
 ### 1. Icy hot
@@ -58,3 +61,12 @@ Resolution of javascript exercises to improve programming logic
 (https://www.codewars.com/kata/523f5d21c841566fde000009/train/javascript)
 ### 17. Pangram
 (https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
+
+### 18. PlusTwo
+(https://the-winter.github.io/codingjs/exercise.html?name=plusTwo&title=Array-1)
+
+### 19. Job Matching
+(https://www.codewars.com/kata/56c22c5ae8b139416c00175d/train/javascript)
+
+### 20. Format words into a sentence
+(https://www.codewars.com/kata/51689e27fe9a00b126000004)
