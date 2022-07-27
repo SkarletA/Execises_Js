@@ -9,6 +9,7 @@ Resolution of javascript exercises to improve programming logic
 - [5. MiddleThree](#5-middleThree)
 - [6. Teensum](#6-teensum)
 - [18. PlusTwo](#18-plusTwo)
+- [21. swapEnds](#21-swapEnds)
 ## Beginner
 - [7. Same on bots ends](#7-same-on-bots-ends)
 - [8. Remove Strings Spaces](#8-remove-strings-spaces)
@@ -70,3 +71,6 @@ Resolution of javascript exercises to improve programming logic
 
 ### 20. Format words into a sentence
 (https://www.codewars.com/kata/51689e27fe9a00b126000004)
+
+### 1. swapEnds
+(https://the-winter.github.io/codingjs/exercise.html?name=swapEnds&title=Array-1)
