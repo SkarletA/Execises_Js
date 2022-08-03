@@ -72,5 +72,5 @@ Resolution of javascript exercises to improve programming logic
 ### 20. Format words into a sentence
 (https://www.codewars.com/kata/51689e27fe9a00b126000004)
 
-### 1. swapEnds
+### 21. swapEnds
 (https://the-winter.github.io/codingjs/exercise.html?name=swapEnds&title=Array-1)
